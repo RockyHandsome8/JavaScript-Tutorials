@@ -20,4 +20,5 @@ let text2 = "Please give Rs 1000"
 // }
 
 // Harry bhai ka code:
-console.log(text2.slice("Please give Rs".length))
+// console.log(text2.slice(text["give Rs 1000".split(' ')[1]].length))
+console.log((text.split(' ')))
